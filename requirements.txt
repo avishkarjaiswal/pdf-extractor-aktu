@@ -4,3 +4,4 @@ itsdangerous
 Jinja2
 Werkzeug
 click
+pdfplumber
